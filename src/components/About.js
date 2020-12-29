@@ -17,7 +17,7 @@ function About() {
             <p />
 
             <ul className="actions">
-                <li><a href="https://www.dropbox.com/s/fagkmpf78ccwqzy/CV_Sujeewanandh_S.pdf?dl=0"
+                <li><a href="https://www.dropbox.com/s/kf7n2j8n02mqf89/Res_Sujeewanandh_S.pdf?dl=0"
                     target="_blank" rel="noopener noreferrer" className="button">Download CV</a></li>
             </ul>
 
